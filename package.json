@@ -1,0 +1,29 @@
+{
+  "name": "react-npm-packager",
+  "version": "0.0.1",
+  "description": "A tool to make packages for react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abuzzz007/react-npm-packager.git"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "npx",
+    "npm-package",
+    "cli"
+  ],
+  "author": "abuzzz007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abuzzz007/react-npm-packager/issues"
+  },
+  "homepage": "https://github.com/Abuzzz007/react-npm-packager#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
